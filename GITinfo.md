@@ -20,5 +20,5 @@
 
 * **git branch** <name_branch> – создать новую ветку;
 
-* **git branch -d** - удалить ненужную ветку;
+* **git branch -d <name_branch>** - удалить ненужную ветку;
 
